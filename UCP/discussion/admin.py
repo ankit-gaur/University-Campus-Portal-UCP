@@ -1,5 +1,4 @@
 from django.contrib import admin
-from django.contrib import admin
 import nested_admin
 
 from discussion.models import DiscussionThread, Reply, Attachment, Tag
